@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+forsage.io	TRUE	/	FALSE	1999999999	PHPSESSID	e7020b1daf9ce0962e0483902c1a3ed0
+forsage.io	TRUE	/	FALSE	1999999999	lang	he
+
